@@ -1,5 +1,13 @@
 # Sup! I'm Ramkrishna 👋
-<h5 align="left">Hey there! I'm Ram, 2nd Year B.tech CSE student at Medicaps University. I Do Full Stack Development, Ui/Ux, and Video Editing.<br><br>🚀 𝗦𝗸𝗶𝗹𝗹𝘀:<br>- UI/UX<br>- FRONT END DEVELOPER<br>- GRAPHIC DESIGNER<br>- VIDEO EDITOR <br><br>Let's connect 🚀✨</h5>
+<h5 align="left">Hi there! I'm Ram, 3rd-year Medi-caps University BTech CS student who combines creativity and code to create powerful digital experiences. Possessing a talent for both front-end and back-end development, I'm extending my knowledge with Three.js and 3D web development while exploring MERN and Next.js.<br><br>
+🚀 𝗦𝗸𝗶𝗹𝗹𝘀:<br>
+- Full Stack Development (MERN & Next.js) <br>
+- UI/UX Design<br>
+- Front-End Development<br>
+- Video Editing & Graphic Design<br>
+- Public Speaking & Mentorship
+<br><br>
+Let's connect 🚀✨</h5>
 
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F71899&center=true&vCenter=true&random=false&width=450&height=100&lines=Full+Stack+Web+Developer;Graphic+Designer;Video+Editor;UI+%2F+UX)](https://git.io/typing-svg)
