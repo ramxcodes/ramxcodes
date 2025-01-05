@@ -16,7 +16,7 @@ Let's connect and create something amazing! 🚀✨
 
 <a href="https://www.twitter.com/_hayy_ram" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/ramxcodes?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.github.com/ramxcodes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ramxcodes?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>&nbsp;&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ramxcodes&label=Profile+Views&color=2f81f7&style=for-the-badge" /></a>
+<img src="https://komarev.com/ghpvc/?username=ramxcodes&label=Profile+Views&color=2f81f7&style=for-the-badge" /></a> <br /> [![wakatime](https://wakatime.com/badge/user/665de59f-b285-456f-9fcd-27470079a6cc.svg)](https://wakatime.com/@665de59f-b285-456f-9fcd-27470079a6cc)
 ## ⚙️ Tech Stack
 
 ```Programming Languages```
