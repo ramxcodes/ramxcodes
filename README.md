@@ -1,3 +1,2 @@
-# Sup! I'm Ram 👋
-
-I'm a Full Stack web developer and Open Source Contributor, with a focus on JavaScript, React, and UI/UX design. Enthusiastic about Three.js, driven by a keen eye for design.
+###### Sup! I'm Ram 
+_I write something for machines and they understand!_
